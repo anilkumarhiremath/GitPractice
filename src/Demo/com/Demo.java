@@ -11,6 +11,8 @@ public class Demo {
 		
 		System.out.println("Working on git commands");
 		
+		System.out.println("Practice git commands");
+		
 		//**************************Count the repeated characters using HashMap*************************************
 		System.out.println("**********Count the repeated characters using HashMap***********");
 		
